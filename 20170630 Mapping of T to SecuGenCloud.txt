@@ -1,0 +1,1 @@
+net use T: \\secugencloud.file.core.windows.net\secugencloud /u:AZURE\secugencloud Yyq9+oI4CDv42EgjnpPH84I7a7IDR60XFjTk1CSzFGEJy/oyFFJpH8E/ubjigtMLkKNJJSdX+FEQ/NOs75qAeQ==
